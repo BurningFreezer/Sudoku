@@ -1,5 +1,8 @@
 [![Watch the video]
 
+https://github.com/user-attachments/assets/787936e2-6130-4a39-b3c5-b9c3b08bdf68
+
+
 
 # Sudoku
 Generates a 9×9 Sudoku grid using random numbers that follow Sudoku rules for rows, columns, and 3×3 subgrids.
